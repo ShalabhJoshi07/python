@@ -1,3 +1,1 @@
-print ("Hello Buddy!!")
-
-print("hello lincpay")
+print ("Hello Buddy!! I Am Your Friend.")
