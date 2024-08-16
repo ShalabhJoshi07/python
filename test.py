@@ -1,1 +1,1 @@
-print ("Hello Buddy!! I Am Your Friend.")
+print"Hello Buddy!! I Am Your Friend.")
